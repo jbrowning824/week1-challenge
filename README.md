@@ -28,6 +28,11 @@ What problem does it solve?
 What did you learn?
 What makes your project stand out?
 
+## Completed:
+Updated div tags to semantic tags.
+Updated CSS to match adjustments
+
+
 
 ## Study Resources:
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
