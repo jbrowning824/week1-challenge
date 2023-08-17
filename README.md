@@ -34,9 +34,11 @@ Use the following questions as a guide:
 
 ## Completed:
 - Updated div tags to semantic tags.
-- Updated CSS to match adjustments
+- Updated CSS to match adjustments.
 - Added alt attributes to all image tags.
 - Updated Cost Management image element to follow current pattern of self closing.
+- Fixed broken linksl
+- Updated page title to a more meaningful name.
 
 
 
