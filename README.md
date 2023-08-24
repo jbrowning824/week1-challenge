@@ -39,6 +39,8 @@ Use the following questions as a guide:
 - Updated Cost Management image element to follow current pattern of self closing.
 - Fixed broken linksl
 - Updated page title to a more meaningful name.
+- Refractored CSS to target elements under container opposed to a separate class for each element that has the same attributes.
+
 
 
 
