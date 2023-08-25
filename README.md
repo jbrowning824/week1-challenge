@@ -23,15 +23,6 @@ Week 1 Challenge
 **WHEN I** view the title element  
 **THEN I** find a concise, descriptive title
 
-## Placeholder for ReadMe Best Practices
-Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-- What makes your project stand out?
-
 ## Completed:
 - Updated div tags to semantic tags.
 - Updated CSS to match adjustments.
