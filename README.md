@@ -28,7 +28,7 @@ Week 1 Challenge
 - Updated CSS to match adjustments.
 - Added alt attributes to all image tags.
 - Updated Cost Management image element to follow current pattern of self closing.
-- Fixed broken linksl
+- Fixed broken links
 - Updated page title to a more meaningful name.
 - Refractored CSS to target elements under container opposed to a separate class for each element that has the same attributes.
 
